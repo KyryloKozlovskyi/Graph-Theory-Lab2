@@ -27,7 +27,7 @@ def outputAdjacencyMatrix(V, E):
     # Return the matrix
     return np.matrix(m)
 
-# Test the function outputAdjacencyMatrix#
+# Test the function outputAdjacencyMatrix
 print(outputAdjacencyMatrix(V2, E2))
 
 # Exercise 2
